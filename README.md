@@ -204,7 +204,7 @@ The **Datas** worksheet contains the raw sales transaction data used for the ent
 
 ### 📸 Datas Screenshot
 
-<img src="images/Raw_data.png">
+<img src="Images/Raw_data.png">
 
 ---
 
