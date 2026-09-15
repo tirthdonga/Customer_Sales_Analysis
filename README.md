@@ -123,9 +123,7 @@ It contains important KPIs and visualizations that help communicate the overall 
 
 ### 📸 Dashboard Screenshot
 
-**[ Insert Dashboard Screenshot Here ]**
-
-`Images/dashboard.png`
+<img src="images/Dash.png">
 
 ---
 
@@ -149,9 +147,7 @@ The **Analysis** worksheet contains the main calculations and analytical summari
 
 ### 📸 Analysis Screenshot
 
-**[ Insert Analysis Screenshot Here ]**
-
-`Images/analysis.png`
+<img src="images/analysis.png">
 
 ---
 
@@ -178,9 +174,7 @@ SUMIF()
 
 ### 📸 What-If Screenshot
 
-**[ Insert What-If Screenshot Here ]**
-
-`Images/what-if.png`
+<img src="images/what_if.png">
 
 ---
 
@@ -210,9 +204,7 @@ The **Datas** worksheet contains the raw sales transaction data used for the ent
 
 ### 📸 Datas Screenshot
 
-**[ Insert Datas Screenshot Here ]**
-
-`Images/datas.png`
+<img src="images/Raw_data.png">
 
 ---
 
