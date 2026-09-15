@@ -123,7 +123,7 @@ It contains important KPIs and visualizations that help communicate the overall 
 
 ### 📸 Dashboard Screenshot
 
-<image src="images/Dash.png">
+<image src="Images/Dash.png">
 
 ---
 
@@ -147,7 +147,7 @@ The **Analysis** worksheet contains the main calculations and analytical summari
 
 ### 📸 Analysis Screenshot
 
-<img src="images/analysis.png">
+<img src="Images/analysis.png">
 
 ---
 
@@ -174,7 +174,7 @@ SUMIF()
 
 ### 📸 What-If Screenshot
 
-<img src="images/what_if.png">
+<img src="Images/what_if.png">
 
 ---
 
