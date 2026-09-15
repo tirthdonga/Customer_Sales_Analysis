@@ -123,7 +123,7 @@ It contains important KPIs and visualizations that help communicate the overall 
 
 ### 📸 Dashboard Screenshot
 
-<image src="Images/Dash.png">
+<image src="Images/dashboard.png">
 
 ---
 
